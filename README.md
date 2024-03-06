@@ -4,5 +4,4 @@
 
 ## Summary
 
-
-This is a repository containing files for WP11 CanHeal project.
+CAN.HEAL aims at Building the EU Cancer and Public Health Genomics platform and is funded by the [European Commission](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/eu4h-2021-pj-15).
