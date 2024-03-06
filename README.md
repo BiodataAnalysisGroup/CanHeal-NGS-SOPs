@@ -18,3 +18,10 @@ CAN.HEAL consortium is funded by the [European Commission](https://ec.europa.eu/
 - Clinical Decision Support
 - Quality Assurance and Continuous Improvement
 - Ethical and Regulatory Compliance
+
+<div align='justify'>Establishing and following these SOPs contribute to the effective translation of genetic and phenotypic data into actionable insights, ultimately improving patient care and advancing scientific understanding in clinical settings. </div>
+
+For the needs of our consortium, three different sets of SOPs have been aquired, regarding clinical, image and omics data exchange.
+- The SOPS for clinical data exchange can be found [here](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-clinical-data-exchange.md),
+- The SOPS for image data exchange can be found [here](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-image-data-exchange.md),
+- The SOPS for omics data exchange can be found [here](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-omics-data-exchange.md).
