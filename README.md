@@ -9,19 +9,23 @@ CAN.HEAL consortium is funded by the [European Commission](https://ec.europa.eu/
 
 ## Centralized Online Repository of Standard Operating Procedures
 
-<div align='justify'>This is a framework for making genetic phenotypic and clinical data from patients useful in clinical settings, playing the role of a knowledge hub for the consortium. Standard Operating Procedures (SOPs) for utilizing genetic, phenotypic, and clinical data from patients in clinical settings are essential to ensure consistency, accuracy, and ethical considerations in the application of this information. These SOPs serve as guidelines for healthcare professionals and researchers to effectively collect, manage, analyze, and interpret patient data for clinical decision-making. Key components of these SOPs typically include:  </div>
+<div align='justify'>This is a framework for making genetic phenotypic and clinical data from patients useful in clinical settings, playing the role of a knowledge hub for the consortium. Standard Operating Procedures (SOPs) for clinical, omics, and image data exchange in clinical settings are vital to ensure seamless integration and interoperability across diverse types of health-related information. These SOPs provide guidelines and protocols for exchanging clinical, genomics (omics), and medical imaging data while prioritizing patient privacy, data security, and regulatory compliance. Here's a general summary of key components:  </div>
 <br>
 
-- Data Collection and Acquisition
-- Data Integration and Management
-- Analysis and Interpretation
-- Clinical Decision Support
-- Quality Assurance and Continuous Improvement
-- Ethical and Regulatory Compliance
+- Multimodal Data Standardization
+- Privacy and Security Protocols
+- Consent Management
+- Data Mapping and Integration
+- Data Governance and Oversight
+- Quality Assurance and Validation
+- Audit Trails and Logging
+- Error Handling and Resolution
+- Interoperability Testing
+- Continuous Improvement
 
-<div align='justify'>Establishing and following these SOPs contribute to the effective translation of genetic and phenotypic data into actionable insights, ultimately improving patient care and advancing scientific understanding in clinical settings. For the needs of our consortium, three different sets of SOPs have been aquired, regarding clinical, image and omics data exchange.</div>
+<div align='justify'>These SOPs serve as a foundation for integrating clinical, omics, and image data, fostering collaboration among healthcare providers, researchers, and institutions, ultimately contributing to improved patient care, personalized medicine, and advancements in medical research. Below the SOPs for each type of data are presented: </div>
 <br>
 
-- The SOPS for clinical data exchange can be found [here](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-clinical-data-exchange.md),
-- The SOPS for image data exchange can be found [here](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-image-data-exchange.md),
-- The SOPS for omics data exchange can be found [here](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-omics-data-exchange.md).
+- The SOPS for [clinical data exchange](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-clinical-data-exchange.md),
+- The SOPS for [image data exchange](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-image-data-exchange.md),
+- The SOPS for [omics data exchange](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-omics-data-exchange.md).
