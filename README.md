@@ -7,6 +7,14 @@
 
 CAN.HEAL consortium is funded by the [European Commission](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/eu4h-2021-pj-15).
 
-## Centralized Online Repository of Standard Operating Procedures (SOPs)
+## Centralized Online Repository of Standard Operating Procedures
 
-This is a framework for making genetic phenotypic and clinical data from patients useful in clinical settings, playing the role of a knowledge hub for the consortium.
+<div align='justify'>This is a framework for making genetic phenotypic and clinical data from patients useful in clinical settings, playing the role of a knowledge hub for the consortium. Standard Operating Procedures (SOPs) for utilizing genetic, phenotypic, and clinical data from patients in clinical settings are essential to ensure consistency, accuracy, and ethical considerations in the application of this information. These SOPs serve as guidelines for healthcare professionals and researchers to effectively collect, manage, analyze, and interpret patient data for clinical decision-making. Key components of these SOPs typically include:  </div>
+<br>
+
+- Data Collection and Acquisition
+- Data Integration and Management
+- Analysis and Interpretation
+- Clinical Decision Support
+- Quality Assurance and Continuous Improvement
+- Ethical and Regulatory Compliance
