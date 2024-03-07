@@ -1,1 +1,1 @@
-## Standard Operating Procedures (SOPs) for omics data exchange
+## Standard Operating Procedures for omics data exchange
