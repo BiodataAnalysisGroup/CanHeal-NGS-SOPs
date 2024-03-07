@@ -1,1 +1,1 @@
-## Standard Operating Procedures (SOPs) for image data exchange
+## Standard Operating Procedures for image data exchange
