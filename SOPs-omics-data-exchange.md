@@ -7,3 +7,5 @@
 - **Notification protocols to inform about any access or exchange**: Define clear procedures to notify relevant participants in case of image data access or exchange, ensuring everyone is informed and follows the correct procedures.
 
 - **Multimodal Data Standardization**: Establishing standardized formats for clinical, omics, and image data to ensure consistent representation and interpretation. Adoption of relevant interoperability standards, such as HL7 for clinical data, and standards like DICOM for medical images.
+
+- **Data Governance and Oversight**: Establishment of governance structures to oversee the exchange process, ensuring compliance with regulations and organizational policies. Defined roles and responsibilities for entities involved in managing diverse health data.
