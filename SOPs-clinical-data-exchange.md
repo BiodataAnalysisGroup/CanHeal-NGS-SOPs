@@ -10,3 +10,5 @@
 - **Use of terminology standards** [ICD-10 and ICD-11 (International Classification of Diseases) and NDC (National Drug Code)]
 
 - **Consent Management**: Development of procedures for obtaining patient consent for the exchange of diverse health data types. Establishing consent preferences for different data modalities, ensuring compliance with patient choices.
+
+- **Data Governance and Oversight**: Establishment of governance structures to oversee the exchange process, ensuring compliance with regulations and organizational policies. Defined roles and responsibilities for entities involved in managing diverse health data.
