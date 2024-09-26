@@ -22,3 +22,9 @@
 
 - **Variant Calling Accuracy**: The accuracy of identifying genetic variants from sequencing data. Metrics such as sensitivity, specificity, and positive predictive value (PPV) assess the reliability of variant calls.
 
+- **On-Target Rate**: The percentage of reads that map to the intended target regions, which is critical in targeted sequencing approaches like exome sequencing.
+
+- **Insertions/Deletions (Indel) Detection Sensitivity**: Assess the sensitivity of detecting insertions and deletions, which can often be more challenging than single nucleotide variants (SNVs) in sequencing data.
+  
+- **Bioinformatics Pipeline Validation**: Ensure the accuracy of the bioinformatics pipeline used for processing NGS data by regularly validating performance against known reference datasets.
+
