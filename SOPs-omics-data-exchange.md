@@ -9,3 +9,11 @@
 - **Multimodal Data Standardization**: Establishing standardized formats for clinical, omics, and image data to ensure consistent representation and interpretation. Adoption of relevant interoperability standards, such as HL7 for clinical data, and standards like DICOM for medical images.
 
 - **Data Governance and Oversight**: Establishment of governance structures to oversee the exchange process, ensuring compliance with regulations and organizational policies. Defined roles and responsibilities for entities involved in managing diverse health data.
+
+- **Data Integrity and Validation**: Implement robust protocols for ensuring the accuracy and completeness of omics data before and after exchanges, including checks for data integrity and error-free transfers.
+
+- **Omics Data Encryption and Security**: Ensure all omics data is encrypted both at rest and during transmission, using industry-standard encryption protocols to protect sensitive genomic or molecular information.
+  
+- **Consent Management for Omics Data**: Establish clear protocols for obtaining and managing patient consent specific to omics data, considering the unique privacy concerns related to genomic information.
+
+- **Long-Term Data Storage and Retention Policies**: Define policies for the long-term storage, retention, and disposal of omics data, ensuring compliance with relevant legal and ethical guidelines.
