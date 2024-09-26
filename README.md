@@ -26,6 +26,6 @@ CAN.HEAL consortium is funded by the [European Commission](https://ec.europa.eu/
 <div align='justify'>These SOPs serve as a foundation for integrating clinical, omics, and image data, fostering collaboration among healthcare providers, researchers, and institutions, ultimately contributing to improved patient care, personalized medicine, and advancements in medical research. Below the SOPs for each type of data are presented: </div>
 <br>
 
-- The SOPS for [clinical data exchange](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-clinical-data-exchange.md),
-- The SOPS for [image data exchange](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-image-data-exchange.md),
-- The SOPS for [omics data exchange](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-omics-data-exchange.md).
+- The SOPS for [clinical](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-clinical-data-exchange.md) data exchange,
+- The SOPS for [image](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-image-data-exchange.md) data exchange,
+- The SOPS for [omics](https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/SOPs-omics-data-exchange.md) data exchange.
