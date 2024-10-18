@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/images/logo.png" alt="CAN.HEAL logo" style="center; height: 400px; width:400px;"/>
+<img src="https://github.com/BiodataAnalysisGroup/CanHeal-NGS-SOPs/blob/main/images/logo.png" alt="CAN.HEAL logo" style="center; height: 350px; width:350px;"/>
 </p>
 
 ## Summary
