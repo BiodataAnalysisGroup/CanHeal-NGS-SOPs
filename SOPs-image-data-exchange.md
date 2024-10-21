@@ -1,5 +1,7 @@
 ## Standard Operating Procedures for image data exchange
 
+- **Data types**: DICOM 
+
 - **GDPR rules**: Access controls, and data anonymization to safeguard individual privacy in image data exchange. Implement robust documentation practices to guarantee compliance with GDPR regulations across all activities related to image data exchange.
 
 - **Rename files so that any patient data are concealed**: Prioritize data confidentiality by implementing a systematic and secure approach to file renaming, ensuring compliance with privacy standards and safeguarding patient information.
