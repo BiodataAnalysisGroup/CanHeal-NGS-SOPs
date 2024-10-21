@@ -1,5 +1,9 @@
 ## Standard Operating Procedures for omics data exchange
 
+- **Data types**: FASTQ, SAM/BAM/CRAM, and VCF
+
+- **GA4GH standards**: Data exchange standards and frameworks for omics data, provide essential guidelines for secure and interoperable data sharing.
+
 - **GDPR rules**: Ensure data security using encryption, access controls, and anonymization. Keep detailed documentation to comply with GDPR rules and protect individual privacy in all omics data exchanges.
 
 - **Rename files so that any patient data are concealed**: Prioritize data confidentiality by implementing a systematic and secure approach to file renaming, ensuring compliance with privacy standards and safeguarding patient information.
