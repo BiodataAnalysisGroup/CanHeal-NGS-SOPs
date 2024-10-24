@@ -4,7 +4,7 @@
   
 -  **HIPAA**: The HIPAA Privacy Rule establishes national standards to protect individuals' medical records and other individually identifiable health information.
   
-- **GDPR rules**: Develop and implement a clinical data exchange SOP according to GDPR standards, emphasizing encryption and consent management, to ensure robust patient privacy and regulatory compliance.
+- **GDPR rules**: Ensure data security through encryption, access controls, and anonymization to safeguard individual privacy in all data exchanges, including image data. Maintain detailed documentation to guarantee compliance with GDPR regulations and protect privacy throughout all activities related to data handling.
 
 - **Lock files with patient data**: Develop and implement a stringent SOP for securely locking files containing patient data, prioritizing heightened data security and robust data protection measures. The SOP aims to minimize risks associated with unauthorized access, ensuring alignment with relevant regulatory standards.
 
