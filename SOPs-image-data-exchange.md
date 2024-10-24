@@ -2,7 +2,7 @@
 
 - **Data types**: DICOM 
 
-- **GDPR rules**: Access controls, and data anonymization to safeguard individual privacy in image data exchange. Implement robust documentation practices to guarantee compliance with GDPR regulations across all activities related to image data exchange.
+- **GDPR rules**: Ensure data security through encryption, access controls, and anonymization to safeguard individual privacy in all data exchanges, including image data. Maintain detailed documentation to guarantee compliance with GDPR regulations and protect privacy throughout all activities related to data handling.
 
 - **Rename files so that any patient data are concealed**: Prioritize data confidentiality by implementing a systematic and secure approach to file renaming, ensuring compliance with privacy standards and safeguarding patient information.
   
