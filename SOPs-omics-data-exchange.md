@@ -4,7 +4,7 @@
 
 - **GA4GH standards**: Data exchange standards and frameworks for omics data, provide essential guidelines for secure and interoperable data sharing.
 
-- **GDPR rules**: Ensure data security using encryption, access controls, and anonymization. Keep detailed documentation to comply with GDPR rules and protect individual privacy in all omics data exchanges.
+- **GDPR rules**: Ensure data security through encryption, access controls, and anonymization to safeguard individual privacy in all data exchanges, including image data. Maintain detailed documentation to guarantee compliance with GDPR regulations and protect privacy throughout all activities related to data handling.
 
 - **Rename files so that any patient data are concealed**: Prioritize data confidentiality by implementing a systematic and secure approach to file renaming, ensuring compliance with privacy standards and safeguarding patient information.
 
