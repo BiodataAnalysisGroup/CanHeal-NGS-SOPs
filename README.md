@@ -12,9 +12,8 @@
 
 ## Centralized Online Repository of Standard Operating Procedures
 
-<div align='justify'>This is a framework for making genetic phenotypic and clinical data from patients useful in clinical settings, playing the role of a knowledge hub for the consortium. Standard Operating Procedures (SOPs) for clinical, omics, and image data exchange in clinical settings are vital to ensure seamless integration and interoperability across diverse types of health-related information. These SOPs provide guidelines and protocols for exchanging clinical, genomics (omics), and medical imaging data while prioritizing patient privacy, data security, and regulatory compliance. Here's a general summary of key components:  </div>
+<div align='justify'>This is a framework for making genetic phenotypic and clinical data from patients useful in clinical settings, playing the role of a knowledge hub for the consortium. Standard Operating Procedures (SOPs) for clinical, omics, and image data exchange in clinical settings are vital to ensure seamless integration and interoperability across diverse types of health-related information. These SOPs provide guidelines and protocols for exchanging clinical, genomics (omics), and medical imaging data while prioritizing patient privacy, data security, and regulatory compliance. </div>
 <br>
-
 <div align='justify'>These SOPs serve as a foundation for integrating clinical, omics, and image data, fostering collaboration among healthcare providers, researchers, and institutions, ultimately contributing to improved patient care, personalized medicine, and advancements in medical research. Below the SOPs for each type of data are presented: </div>
 <br>
 
